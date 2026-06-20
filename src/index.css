@@ -1,0 +1,26 @@
+html{
+  scroll-behavior: smooth;
+}
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  font-family: Arial, sans-serif;
+
+  background:
+  linear-gradient(
+      135deg,
+      #f4f6ff 0%,
+      #eef1ff 50%,
+      #e8ebff 100%
+  );
+
+  background-image:
+    radial-gradient(#c8d0ff 1px, transparent 1px);
+
+  background-size: 25px 25px;
+}
