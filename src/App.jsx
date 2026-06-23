@@ -248,6 +248,13 @@ useEffect(() => {
               >
                 <FaLinkedin />
               </a>
+              <a
+                href="https://github.com/sujal123-web"
+                target="_blank"
+                rel="noreferrer"
+              >
+                <FaGithub />
+              </a>
 
               <a href="mailto:sujalrajpu1309@gmail.com">
                 <FaEnvelope />
@@ -1130,6 +1137,9 @@ useEffect(() => {
         className="social-icon-btn"
     >
         <FaLinkedin />
+    </a>
+      <a href="https://github.com/sujal123-web" className="social-icon-btn">
+      <FaGithub />
     </a>
 
     <a

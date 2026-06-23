@@ -2431,10 +2431,12 @@ body{
     color: white;
 
     font-size: 32px;
-
-    font-weight: 700;
-
-    margin-bottom: 35px;
+}
+.social-links a:hover{
+    color: white;
+    border-color: #8b5cf6;
+    box-shadow: 0 0 15px rgba(139,92,246,0.35);
+    transform: translateY(-2px);
 }
 .core-tech-tags{
     display: flex;
